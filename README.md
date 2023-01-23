@@ -26,5 +26,5 @@ post_tags 
 
 A constraint is that I cannot use Selenium or any automation software.
 
-So, the main idea is to create different lists for each of the above things, which can be done added to a dataframe as columns to make the final result.
+So, the main idea is to create different lists for each of the above things, which can be then added to a dataframe as columns to make the final result.
 The program will be then run through a list of all the topics to get the entire dataset and then imported as excel and json.
